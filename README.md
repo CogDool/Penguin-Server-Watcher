@@ -277,7 +277,7 @@ Use the terminal output to confirm activity. Press Ctrl + C to stop it.
 
 ## License and Ownership
 
-Copyright © Penguin Entertainment Limit. All rights reserved.
-
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 This project is intended for authorized server and website monitoring. Ensure that you have permission to monitor all configured endpoints.
 
